@@ -179,7 +179,7 @@ streamlit run app/streamlit_app.py
 
 ## 📷 Arayüz Ekran Görüntüleri
 
-> (Buraya arayüz görsellerini ekleyebilirsin)
+> ![image](https://github.com/user-attachments/assets/36649391-03f5-4631-a8ea-fbf68283abc0)
 
 ---
 
