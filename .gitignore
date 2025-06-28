@@ -1,17 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
 # Sanal ortam
 venv/
-__pycache__/
-*.pyc
+.env
 
-# IDE ve sistem dosyaları
+# IDE dosyaları
 .vscode/
-.DS_Store
+.idea/
 
-# Veri/model dosyaları
-*.faiss
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Veri dosyaları
 *.csv
+*.xlsx
+
+# FAISS, modeller, index dosyaları
+*.faiss
 *.gguf
 *.pkl
 
-# Geçici dosyalar
+# Log dosyaları
 *.log
+
+# Çıktı ve geçici klasörler
+*.bak
+*.tmp
+*.swp
