@@ -1,0 +1,17 @@
+# Sanal ortam
+venv/
+__pycache__/
+*.pyc
+
+# IDE ve sistem dosyaları
+.vscode/
+.DS_Store
+
+# Veri/model dosyaları
+*.faiss
+*.csv
+*.gguf
+*.pkl
+
+# Geçici dosyalar
+*.log
