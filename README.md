@@ -73,6 +73,12 @@ Kullanıcının mesajı embed edilerek en yakın intent eşleşmesi yapılır. E
 
 ---
 
+## 🗺️ Chatbot Akış Diyagramı
+
+![ChatGPT Image Jun 28, 2025, 05_39_48 AM](https://github.com/user-attachments/assets/834353f4-04b0-48d7-957f-44c8ca079b5b)
+
+---
+
 ## 🤖 LLM Model Seçimi ve Entegrasyonu
 
 ### 🔷 Gemini 1.5 Flash (Google)
