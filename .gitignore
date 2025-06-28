@@ -16,12 +16,9 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Model ve FAISS index dosyaları
+# FAISS index ve geçici dosyalar
 *.faiss
-*.gguf
 *.pkl
-
-# Geçici dosyalar
 *.log
 *.tmp
 *.bak
